@@ -1,4 +1,4 @@
-This is a basic React repo that uses Webpack and Babel.
+A barebones React repo using Webpack and Babel.
 
 #Setup
 
